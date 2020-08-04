@@ -1,3 +1,11 @@
+# Core Java Interview Programs
+- [Basic String Programs](#string-based-programs)
+
+# String Based Programs
+1.  Write a program to check String is Palindrome or NOT. [[Explanation]](BasicInterviewQuestion/com/java/example/strings/Palindrome.java)
+
+
+
 # Core Java Basic Interview Questions
 1. What is dynamic method dispatch?
 2. What do you know about final method? 
