@@ -2,7 +2,7 @@
 - [Basic String Programs](#string-based-programs)
 
 # String Based Programs
-1.  Write a program to check String is Palindrome or NOT. [[Explanation]](BasicInterviewQuestion/com/java/example/strings/Palindrome.java)
+1.  Write a program to check String is Palindrome or NOT. [[Explanation]](BasicInterviewQuestion/src/com/java/example/strings/Palindrome.java)
 
 
 
